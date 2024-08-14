@@ -16,4 +16,4 @@ Um simples jogo de Ping-Pong feito com HTML5 e JavaScript.
 ## Como Executar
 
 1. Baixe ou clone o repositório.
-2. Abra `index.html` em um navegador.
+2. Acesse o link a seguir (https://miqueiasfbarros.github.io/PING-PONG/)
